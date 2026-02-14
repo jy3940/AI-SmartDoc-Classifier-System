@@ -1,0 +1,20 @@
+{
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/library",
+        "${workspaceFolder}/src",
+        "${workspaceFolder}/training"
+    ],
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none",
+        "reportGeneralTypeIssues": "none",
+        "reportOptionalMemberAccess": "none",
+        "reportOptionalSubscript": "none"
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python",
+        "editor.formatOnSave": true
+    }
+}
