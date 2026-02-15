@@ -1,5 +1,4 @@
 Name: CHEN JUN YUAN
-Student ID: i25033940
 Github: https://github.com/jy3940/AI-SmartDoc-Classifier-System/
 
 # AI SmartDoc Classifier System
