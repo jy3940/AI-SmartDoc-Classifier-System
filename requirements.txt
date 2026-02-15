@@ -1,0 +1,27 @@
+--only-binary=:all:
+--prefer-binary
+
+# AI SmartDoc Classifier System dependencies
+# IMPORTANT: Use Python 3.12.x (tested with 3.12.6)
+# NOTE: System tools (Python Launcher, VC++ Runtime, Tesseract, Poppler) are installed via README commands, not pip.
+
+# Core ML + data
+numpy==1.26.4
+pandas==2.3.3
+scikit-learn==1.8.0
+joblib==1.5.3
+tensorflow-cpu==2.16.1
+
+# Desktop GUI
+PyQt5==5.15.11
+
+# Document parsing
+PyPDF2==3.0.1
+python-docx==1.2.0
+openpyxl==3.1.5
+lxml==6.0.2
+
+# OCR support
+Pillow==11.3.0
+pytesseract==0.3.13
+pdf2image==1.17.0
