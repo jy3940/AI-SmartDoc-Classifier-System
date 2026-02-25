@@ -97,6 +97,7 @@ Install dependencies into this venv:
 ```powershell
 .\venv\Scripts\python.exe -m pip install --upgrade pip
 .\venv\Scripts\python.exe -m pip install -r requirements.txt
+.\venv\Scripts\python.exe -m pip install --force-reinstall optree==0.18.0
 .\venv\Scripts\python.exe -m pip check
 ```
 
