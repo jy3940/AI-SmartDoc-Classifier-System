@@ -1,0 +1,5 @@
+COMPANY SECURITY POLICY
+
+This policy defines employee data protection requirements.
+Coverage includes password rotation, access control, and incident reporting.
+Terms and conditions apply to all staff and contractors.

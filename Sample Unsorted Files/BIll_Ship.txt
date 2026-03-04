@@ -1,0 +1,6 @@
+SHIPPING DOCUMENT
+
+Shipment tracking number: SHP-88421
+Carrier: FastLogistics
+Delivery address confirmed by warehouse dispatch team.
+Freight package status: Out for delivery.

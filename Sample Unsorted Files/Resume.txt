@@ -1,0 +1,7 @@
+RESUME
+
+Name: Jordan Lee
+Profile: Software Engineer
+Experience: 5 years backend development
+Skills: Python, SQL, API design
+Education: BSc Computer Science

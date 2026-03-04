@@ -1,0 +1,7 @@
+INVOICE
+Invoice Number: INV-2026-001
+Vendor: Smart Office Supplies
+Subtotal: RM 1,250.00
+Tax: RM 75.00
+Total Amount Due: RM 1,325.00
+Payment terms: Net 30.
